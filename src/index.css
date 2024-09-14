@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  font-family: Gilroy;
+  
+}
+
+#contactDiv{
+  height: 350px;
+  width: 95%;
+  margin: 10px 0px 10px;
+  border-radius: 5px;
+  background-color: rgb(112, 112, 226);
+  color: black;
+}
